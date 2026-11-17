@@ -70,3 +70,4 @@ export default function DestinationShowcase({ onOpenEnquiry, onSelectDestination
     </section>
   );
 }
+
