@@ -1,0 +1,17 @@
+{
+  "logoText": "GK TOURS",
+  "logoSub": "G for Goat · K for Kite",
+  "links": [
+    { "label": "Home", "href": "#hero" },
+    { "label": "About", "href": "#about" },
+    { "label": "Destinations", "href": "#destinations" },
+    { "label": "Why GK", "href": "#why-us" },
+    { "label": "Story", "href": "#storytelling" },
+    { "label": "Packages", "href": "#packages" },
+    { "label": "FAQ", "href": "#faq" }
+  ],
+  "cta": {
+    "label": "PLAN YOUR JOURNEY",
+    "action": "openEnquiryModal"
+  }
+}

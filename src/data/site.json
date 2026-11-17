@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "GK TOURS",
+    "sub": "G for Goat. K for Kite.",
+    "tagline": "Meaningful Journeys. Unforgettable Moments.",
+    "positioning": "Premium Pilgrimage & Spiritual Travel Experiences",
+    "established": "2026",
+    "meaning": "G for Goat. K for Kite."
+  },
+  "contact": {
+    "phone": "+91 98765 43210",
+    "whatsappNumber": "919876543210",
+    "email": "enquire@gktours.in",
+    "address": "Junagadh & Kolhapur Corridors, India",
+    "workingHours": "Mon – Sat: 9:00 AM – 7:00 PM IST"
+  },
+  "socials": {
+    "instagram": "https://instagram.com/gktours",
+    "whatsapp": "https://wa.me/919876543210",
+    "email": "mailto:enquire@gktours.in"
+  },
+  "theme": {
+    "primary": "#173D32",
+    "midnight": "#102A23",
+    "ivory": "#F8F6EF",
+    "sand": "#EAE3D6",
+    "gold": "#B99554",
+    "saffron": "#C77A32",
+    "footerBlue": "#153F87",
+    "footerSecondaryBlue": "#1C4E9A"
+  }
+}

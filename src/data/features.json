@@ -1,0 +1,31 @@
+{
+  "eyebrow": "THE DIFFERENCE IS IN THE DETAILS",
+  "headlineSans": "Every Journey",
+  "headlineItalic": "Deserves Care.",
+  "items": [
+    {
+      "number": "01",
+      "title": "Thoughtfully Planned",
+      "description": "Every journey should begin with clear information and thoughtful preparation.",
+      "icon": "Compass"
+    },
+    {
+      "number": "02",
+      "title": "Meaningful Destinations",
+      "description": "Discover places that connect you with culture, devotion and tradition.",
+      "icon": "Landmark"
+    },
+    {
+      "number": "03",
+      "title": "A Personal Experience",
+      "description": "Enquire about journeys that suit your travel preferences.",
+      "icon": "Users"
+    },
+    {
+      "number": "04",
+      "title": "Memories That Matter",
+      "description": "Take home experiences that stay with you.",
+      "icon": "Sparkles"
+    }
+  ]
+}

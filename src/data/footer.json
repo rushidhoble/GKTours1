@@ -1,0 +1,42 @@
+{
+  "brandDescription": "GK Tours curates premium, contemplative pilgrimage journeys to sacred destinations across India. Rooted in devotion to Lord Dattatreya, designed for genuine tranquility.",
+  "columns": {
+    "explore": {
+      "title": "EXPLORE",
+      "links": [
+        { "label": "Home", "href": "#hero" },
+        { "label": "About", "href": "#about" },
+        { "label": "Destinations", "href": "#destinations" },
+        { "label": "Packages", "href": "#packages" },
+        { "label": "Why Choose Us", "href": "#why-us" },
+        { "label": "How It Works", "href": "#process" }
+      ]
+    },
+    "journeys": {
+      "title": "OUR JOURNEYS",
+      "links": [
+        { "label": "Girnar Yatra — Gujarat", "href": "#destinations" },
+        { "label": "Narsobachi Wadi — Maharashtra", "href": "#destinations" },
+        { "label": "Mount Girnar Sacred Steps", "href": "#storytelling" },
+        { "label": "Krishna–Panchganga Sangam", "href": "#storytelling" }
+      ]
+    },
+    "getInTouch": {
+      "title": "GET IN TOUCH",
+      "links": [
+        { "label": "WhatsApp Concierge", "type": "whatsapp", "value": "+91 98765 43210" },
+        { "label": "Email Enquiries", "type": "email", "value": "enquire@gktours.in" },
+        { "label": "Instagram Journey Feed", "type": "instagram", "value": "@gktours" }
+      ]
+    }
+  },
+  "contactInfo": {
+    "phone": "+91 98765 43210",
+    "email": "enquire@gktours.in",
+    "region": "Gujarat & Maharashtra, India"
+  },
+  "legal": {
+    "copyright": "© 2026 GK TOURS. G for Goat. K for Kite. All rights reserved.",
+    "subtext": "Curated spiritual and pilgrimage travel experiences. Details confirmed upon enquiry."
+  }
+}

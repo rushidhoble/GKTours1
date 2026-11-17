@@ -1,0 +1,37 @@
+{
+  "eyebrow": "NEED HELP?",
+  "headline": "Frequently Asked Questions.",
+  "subtitle": "Clear, direct information to guide your pilgrimage planning.",
+  "items": [
+    {
+      "id": "faq-1",
+      "question": "What destinations does GK Tours currently offer?",
+      "answer": "GK Tours currently focuses on two deeply revered pilgrimage destinations associated with Lord Dattatreya: Girnar Yatra in Junagadh, Gujarat, and Narsobachi Wadi in Kolhapur, Maharashtra."
+    },
+    {
+      "id": "faq-2",
+      "question": "How can I enquire about a package?",
+      "answer": "You can enquire directly through the website by clicking any 'Plan Your Journey' or 'Enquire Now' button. Completing the enquiry form formats an official WhatsApp message to connect you directly with our team."
+    },
+    {
+      "id": "faq-3",
+      "question": "Are tour dates fixed?",
+      "answer": "Tour schedules are flexible based on weather conditions, temple timings, and your personal travel preferences. We discuss and confirm specific departure dates during your one-on-one consultation."
+    },
+    {
+      "id": "faq-4",
+      "question": "What is included in the package?",
+      "answer": "Package inclusions depend on your travel preferences, group size, and specific requirements. We believe in total transparency: all accommodation, travel, and support details are confirmed directly with you before finalising."
+    },
+    {
+      "id": "faq-5",
+      "question": "Can I enquire for multiple travellers?",
+      "answer": "Yes, absolutely. Whether you are travelling as a solo pilgrim, a family, or an organised yatri group, you can specify your total traveller count when submitting your enquiry."
+    },
+    {
+      "id": "faq-6",
+      "question": "How can I contact GK Tours?",
+      "answer": "You can reach GK Tours immediately via WhatsApp, by telephone at +91 98765 43210, or by emailing enquire@gktours.in. We respond attentively to all pilgrimage enquiries."
+    }
+  ]
+}

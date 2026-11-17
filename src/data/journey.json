@@ -1,0 +1,26 @@
+{
+  "eyebrow": "HOW IT WORKS",
+  "headlineSans": "Your Journey,",
+  "headlineItalic": "Made Simple.",
+  "subtitle": "A transparent, thoughtful consultation tailored around your spiritual travel intentions.",
+  "steps": [
+    {
+      "step": "01",
+      "title": "Choose Your Destination",
+      "description": "Explore our available pilgrimage experiences.",
+      "detail": "Discover the sacred peaks of Girnar or the riverside sanctum of Narsobachi Wadi."
+    },
+    {
+      "step": "02",
+      "title": "Send Your Enquiry",
+      "description": "Tell us about your preferred destination and travel requirements.",
+      "detail": "Share traveller count, preferred dates, and any specific preferences via our simple enquiry form."
+    },
+    {
+      "step": "03",
+      "title": "Connect With GK Tours",
+      "description": "Discuss the trip details and plan your next journey.",
+      "detail": "Receive custom itinerary options, departure information, and direct guidance directly on WhatsApp."
+    }
+  ]
+}

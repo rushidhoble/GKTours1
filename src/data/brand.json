@@ -1,0 +1,25 @@
+{
+  "eyebrow": "THE GK EXPERIENCE",
+  "headlineSans": "Travel With Purpose.",
+  "headlineItalic": "Return With Memories.",
+  "description": "At GK Tours, we believe travel is more than reaching a destination. It is about the experiences, traditions and meaningful moments that stay with us long after the journey ends.",
+  "image": "./images/brand-journey.jpg",
+  "imageCaption": "Dawn along the pilgrimage trail",
+  "pillars": [
+    {
+      "number": "01",
+      "title": "Sacred Lineage",
+      "text": "Deeply rooted in the divine traditions of Lord Dattatreya across Gujarat and Maharashtra."
+    },
+    {
+      "number": "02",
+      "title": "Attentive Hospitality",
+      "text": "Thoughtful itineraries tailored for clarity, peace of mind, and physical comfort."
+    },
+    {
+      "number": "03",
+      "title": "Timeless Reverence",
+      "text": "Giving yatris the time, space, and quiet dignity needed for genuine inner connection."
+    }
+  ]
+}

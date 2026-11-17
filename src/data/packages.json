@@ -1,0 +1,47 @@
+{
+  "eyebrow": "CHOOSE YOUR JOURNEY",
+  "headlineSans": "Find the Journey",
+  "headlineItalic": "That Calls You.",
+  "subtitle": "Carefully considered pilgrimage itineraries with dedicated consultation for every family and traveller group.",
+  "missingInfoFallback": "Contact us for package details.",
+  "packages": [
+    {
+      "id": "girnar-package",
+      "destinationId": "girnar",
+      "name": "Girnar Yatra Pilgrimage",
+      "tag": "Sacred Peak Ascent",
+      "location": "Junagadh, Gujarat",
+      "image": "./images/girnar-steps.jpg",
+      "description": "An iconic spiritual expedition to the historic shrines and Guru Dattatreya peak atop Mount Girnar.",
+      "duration": null,
+      "departure": null,
+      "price": null,
+      "inclusionsNote": null,
+      "highlights": [
+        "Ascent to Guru Dattatreya Shikhar",
+        "Temple heritage of Junagadh",
+        "Paced itinerary guidance for yatris"
+      ],
+      "cta": "ENQUIRE NOW"
+    },
+    {
+      "id": "narsobachi-wadi-package",
+      "destinationId": "narsobachi-wadi",
+      "name": "Narsobachi Wadi Pilgrimage",
+      "tag": "Riverside Sanctum",
+      "location": "Kolhapur, Maharashtra",
+      "image": "./images/narsobachi-wadi-temple.jpg",
+      "description": "A deeply serene pilgrimage to Shri Kshetra Narasimhavadi at the sacred Krishna-Panchganga river confluence.",
+      "duration": null,
+      "departure": null,
+      "price": null,
+      "inclusionsNote": null,
+      "highlights": [
+        "Darshan of sacred Datta Padukas",
+        "Krishna-Panchganga holy snan & aarti",
+        "Peaceful riverside accommodation support"
+      ],
+      "cta": "ENQUIRE NOW"
+    }
+  ]
+}

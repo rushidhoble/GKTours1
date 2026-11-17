@@ -1,0 +1,17 @@
+{
+  "eyebrow": "MEANINGFUL JOURNEYS. UNFORGETTABLE MOMENTS.",
+  "headlineSans": "Find Your Way To Something",
+  "headlineItalic": "Meaningful.",
+  "supportingText": "Explore sacred destinations, discover beautiful landscapes and experience meaningful journeys with GK Tours.",
+  "primaryCta": {
+    "label": "EXPLORE DESTINATIONS",
+    "href": "#destinations"
+  },
+  "secondaryCta": {
+    "label": "PLAN YOUR JOURNEY",
+    "action": "openEnquiryModal"
+  },
+  "badge": "01 / 02 — GUJARAT TO MAHARASHTRA",
+  "backgroundImage": "./images/hero-girnar.jpg",
+  "location": "Mount Girnar, Junagadh — Gujarat"
+}

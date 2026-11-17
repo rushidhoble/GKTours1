@@ -1,0 +1,66 @@
+[
+  {
+    "id": "girnar",
+    "number": "01",
+    "name": "GIRNAR",
+    "fullName": "Girnar Yatra",
+    "location": "Junagadh, Gujarat",
+    "subtitle": "Where the Journey Rises.",
+    "description": "An iconic mountain pilgrimage known for its sacred temples, remarkable landscapes and the revered shrine of Guru Dattatreya.",
+    "image": "./images/girnar-main.jpg",
+    "secondaryImage": "./images/girnar-steps.jpg",
+    "shrineImage": "./images/girnar-shrine.jpg",
+    "highlights": [
+      "Sacred mountain pilgrimage",
+      "Guru Dattatreya shrine",
+      "Historic temple surroundings",
+      "Panoramic mountain scenery"
+    ],
+    "stats": [
+      { "label": "Elevation", "value": "3,666 ft" },
+      { "label": "Sacred Steps", "value": "9,999+" },
+      { "label": "Tradition", "value": "Datta Peeth" }
+    ],
+    "story": {
+      "regionLabel": "JUNAGADH, GUJARAT",
+      "title": "The Ascent to Divine Solitude",
+      "subtitle": "Rising above the mist into the eternal presence of Lord Dattatreya.",
+      "lead": "Mount Girnar is older than the Himalayas. Its volcanic granite peaks rise abruptly from the plains of Saurashtra, piercing the clouds with sheer vertical presence.",
+      "body": "For millennia, sages, ascetics, and devoted yatris have climbed its carved stone stairway. The final shrine of Guru Dattatreya perches upon the sharpest summit, requiring steadfast resolve and offering a sense of transcendence rarely found on earth. With GK Tours, your ascent is planned with care, seasoned pacing, and reverence for every milestone along the holy path."
+    },
+    "cta": "EXPLORE GIRNAR",
+    "packageId": "girnar-package"
+  },
+  {
+    "id": "narsobachi-wadi",
+    "number": "02",
+    "name": "NARSOBACHI WADI",
+    "fullName": "Narsobachi Wadi Yatra",
+    "location": "Kolhapur, Maharashtra",
+    "subtitle": "Where Faith Finds Peace.",
+    "description": "A peaceful pilgrimage destination associated with Shri Narasimha Saraswati, known for its sacred Padukas and the confluence of the Krishna and Panchganga rivers.",
+    "image": "./images/narsobachi-wadi-main.jpg",
+    "secondaryImage": "./images/narsobachi-wadi-temple.jpg",
+    "shrineImage": "./images/narsobachi-wadi-paduka.jpg",
+    "highlights": [
+      "Shri Narasimha Saraswati Padukas",
+      "Sacred river confluence",
+      "Datta devotional tradition",
+      "Peaceful riverside surroundings"
+    ],
+    "stats": [
+      { "label": "Confluence", "value": "Krishna & Panchganga" },
+      { "label": "Sanctuary", "value": "Audumbar Chhaya" },
+      { "label": "Sanctity", "value": "Narasimha Saraswati" }
+    ],
+    "story": {
+      "regionLabel": "KOLHAPUR, MAHARASHTRA",
+      "title": "Quiet Devotion on Sacred Waters",
+      "subtitle": "The holy sangam where gentle river ripples echo with ancient chanting.",
+      "lead": "Shri Kshetra Narasimhavadi rests serenely on the banks where the sacred Krishna and Panchganga rivers merge, sheltered by sprawling, ancient Audumbar trees.",
+      "body": "Here, Shri Narasimha Saraswati Swami Maharaj—the revered second avatar of Lord Dattatreya—spent twelve sacred years in deep tapasya before blessing this sanctum with his eternal Padukas. Unlike bustling pilgrimage centers, Narsobachi Wadi invites an intimate, prayerful stillness. Pilgrims take morning snan in the tranquil waters, attend heart-stirring evening aartis, and find lasting inner clarity."
+    },
+    "cta": "EXPLORE NARSOBACHI WADI",
+    "packageId": "narsobachi-wadi-package"
+  }
+]
